@@ -4,9 +4,11 @@ ________________________________________________________________________________
 > about me
 
 
-📈 I’m developing a Web-Application for CPA, plug-ins and apps for homekit smart home! 
+📈 I’m developing a Web-Application for CPA, plug-ins and apps for homebridge! 
 
 ✍🏼  I’m currently working on Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services.
+    All my projects are based on a marketing strategy, analytics, statistics and automatic mailings depending on the preferences of the audience. 
+    With cross-platform API integration.
 
 ⚙️ Working with Homebridge, Home Assistant, Raspberrypi OS, Linux, Docker, PostgreSQL, SQLite, Python, PHP, JavaScript (jQuery), HTML5, CSS, Django, Celery (celerybeat), MQTT.
 
