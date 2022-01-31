@@ -4,7 +4,7 @@ ________________________________________________________________________________
 > about me
 
 
-📈 I’m developing a Web-Application for CPA, plug-ins and apps for homebridge!<br>
+📈 I’m developing a Web-Applications for CPA, plug-ins and apps for homebridge!<br>
         Python developer with real experience in problem solving and database work. Working experience 2+ years.
 
 ✍🏼  I’m currently working on Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services.    
