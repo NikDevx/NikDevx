@@ -13,8 +13,6 @@ ________________________________________________________________________________
 
 ⚙️ Working with Homebridge, Home Assistant, Raspberrypi OS, Linux, Docker, PostgreSQL, SQLite, Python, PHP, JavaScript (jQuery), HTML5, CSS, Django, Celery (celerybeat), MQTT.
 
-📚 I’m currently learning Redis, RabbitMQ, Flower and NodeJS.
-
 💬 How to reach me <a href="#social-networks">click</a>
 
 👨‍💻 Few words about myself: 💪 ten years in sports, my hobbies 🎮 play, 🏠 create my own smart home and read manga.
