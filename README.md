@@ -11,7 +11,7 @@ ________________________________________________________________________________
         All my projects are based on a marketing strategy, analytics, statistics and automatic mailings depending on the preferences of the audience. 
         With cross-platform API integration.
 
-⚙️ Working with Homebridge, Home Assistant, Raspberrypi OS, Linux, Docker, PostgreSQL, SQLite, Python, PHP, JavaScript (jQuery), HTML5, CSS, Django, Celery (celerybeat), MQTT.
+⚙️ Working with Homebridge, Home Assistant, Raspberrypi OS, Linux, Docker, PostgreSQL, MySQL, SQLite, Python, PHP, JavaScript (jQuery), HTML5, CSS, Django, Celery (celerybeat), MQTT.
 
 💬 How to reach me <a href="#social-networks">click</a>
 
