@@ -1,3 +1,5 @@
+<a href="https://stand-with-ukraine.pp.ua/" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg" alt="SWUbanner" style="max-width: 100%;"></a>
+
 # Hello there, I'm Mykyta Andriievskyi 👋 🇺🇦
 
 ____________________________________________________________________________________________________________________________________________________________________
