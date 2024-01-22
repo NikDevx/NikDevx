@@ -7,9 +7,13 @@ ________________________________________________________________________________
 
 
 📈 I’m developing a Web-Applications for CPA, plug-ins and apps for homebridge!<br>
-        Python developer with real experience in problem solving and database work. Working experience 3+ years.
+        Python developer with real experience in problem solving and database work. Working experience 5+ years.
 
-✍🏼  I’m currently working on Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services.    
+🏘 Co-owner in <a href="smarty-house.shop">Smarty House LLC</a>
+
+✍🏼 I’am currently working on Web-Application for automated crypto trading on Binance (privat repo)
+
+✅  Already done Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services (privat repo).
         All my projects are based on a marketing strategy, analytics, statistics and automatic mailings depending on the preferences of the audience. 
         With cross-platform API integration.
 
