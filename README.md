@@ -9,7 +9,7 @@ ________________________________________________________________________________
 📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for homekit!<br>
         Python developer with real experience in problem solving and database work. Working experience 5+ years.
 
-🏘 Co-owner in <a href="smarty-house.shop">Smarty House LLC</a>
+🏘 Co-owner in <a href="https://smarty-house.shop">Smarty House LLC</a>
 
 ✍🏼 I’am currently working on Web-Application for automated crypto trading on Binance (privat repo)
 
