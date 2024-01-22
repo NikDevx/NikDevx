@@ -6,7 +6,7 @@ ________________________________________________________________________________
 > about me
 
 
-📈 I’m developing a Web-Applications for CPA, plug-ins and apps for homebridge!<br>
+📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for homekit!<br>
         Python developer with real experience in problem solving and database work. Working experience 5+ years.
 
 🏘 Co-owner in <a href="smarty-house.shop">Smarty House LLC</a>
