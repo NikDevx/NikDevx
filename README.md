@@ -1,44 +1,100 @@
 <a href="https://stand-with-ukraine.pp.ua/" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
 # Hello there, I'm Mykyta Andriievskyi 👋 🇺🇦
+<a href="#social-networks"><img src="https://img.shields.io/static/v1?label=&message=How%20to%20reach%20me&color=green?style=plastic" /></a> | <a href="#my-experience"><img src="https://img.shields.io/static/v1?label=&message=My%20experience&color=green?style=plastic" /></a> | <a href="#about-me"><img src="https://img.shields.io/static/v1?label=&message=About%20me&color=green?style=plastic" /></a> | <a href="#finished-projects"><img src="https://img.shields.io/static/v1?label=&message=Finished%20projects&color=green?style=plastic" /></a> | <a href="#my-skills"><img src="https://img.shields.io/static/v1?label=&message=My%20skills&color=green?style=plastic" /></a> | <a href="#additional-information"><img src="https://img.shields.io/static/v1?label=&message=My%20hobbies&color=green?style=plastic" /></a> | <a href="#social-networks"><img src="https://img.shields.io/static/v1?label=&message=Additional%20information&color=green?style=plastic" /></a>
+<br><br>
 
-____________________________________________________________________________________________________________________________________________________________________
-> about me
+> ## My experience
 
-
-📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for homekit!<br>
-        Python developer with real experience in problem solving and database work. Working experience 5+ years.
+📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for Homekit and HomeAssistant!<br>
+        Python developer with real experience in problem solving and database work. Working experience 5+ years.<br>
+        For the last 3 years, I have been running my own company specializing in smart home solutions for the Apple ecosystem. 
 
 🏘 Co-owner in <a href="https://smarty-house.shop">Smarty House LLC</a>
+<br>I have been responsible for:
 
-✍🏼 I’am currently working on Web-Application for automated crypto trading on Binance (privat repo)
+- Integrating third-party devices into HomeKit via APIs
+- Developing automation scenarios
+- Setting up Linux servers for smart home infrastructure
+- Writing scripts for automatic backups and server recovery
+- Implementing smart home solutions in large properties (700+ m²)
+- Designing systems for heating, lighting, air conditioning, garage shutters, gates, smart locks, Ajax alarms, and RTSP video integration.
 
-✅  Already done Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services (privat repo).
-        All my projects are based on a marketing strategy, analytics, statistics and automatic mailings depending on the preferences of the audience. 
-        With cross-platform API integration.
+Additionally, I have created various Bash, Python, and JavaScript scripts for Apple HomeKit integrations using Home Assistant and Homebridge, as well as worked on the development and integration of Telegram chatbots into web applications.
 
-⚙️ Working with Homebridge, Home Assistant, Raspberrypi OS, Linux, Docker, PostgreSQL, MySQL, SQLite, Python, PHP, JavaScript (jQuery), HTML5, CSS, Django, Celery (celerybeat), MQTT.
-
-💬 How to reach me <a href="#social-networks">click</a>
-
-👨‍💻 Few words about myself: 💪 ten years in sports, my hobbies 🎮 play, 🏠 create my own smart home and read manga.
-
+I also have experience building Telegram chatbots using Django, where I implemented API integrations, webhook processing, and interactive features. These bots were integrated into web applications, allowing for seamless communication between users and smart home systems, marketing platforms, or internal tools.
 ____________________________________________________________________________________________________________________________________________________________________
-> basic information
+<br>
 
+> ## About me
+Since 2024, amid the challenges of hiring in Ukraine, I have taken on additional responsibilities outside of my department, including negotiating with partners from Alibaba, signing contracts for branded product production, and integrating devices into smart home systems.
 
+Due to significant changes in the market and the challenges of handling multiple roles after the departure of half team members, I am currently unable to continue growing in my current position. As my company faces a decline in the number of clients and coworkers, my workload has become overwhelming, and I no longer have the resources to manage all tasks on my own.
+
+As a result, my wife and I have decided to relocate from Ukraine to the EU in the near future. I am now actively seeking remote opportunities where I can fully leverage my skills, contribute to a friendly and collaborative company, and continue my professional growth. I am eager to join a team that values innovation and offers room for personal and career development.
+
+I am passionate about building scalable solutions, maintaining clean code, and delivering comprehensive smart home experiences from concept to execution. I also possess frontend skills, complementing my backend expertise, which allows me to develop more complete and versatile solutions.
+____________________________________________________________________________________________________________________________________________________________________
+<br>
+
+> ## Finished projects
+✅  Already done Web-Application for statistics, analytics, push notifications services and automations mailing for advertising services (privat repo).<br>
+        I was working on Web-Application for automated crypto trading on Binance (privat repo). Done ✅<br>
+        All my projects are based on a marketing strategy, analytics, statistics and automatic mailings depending on the preferences of the audience.
+        With cross-platform API integration.<br>
+        Script for install from one bash command Raspberry PI OS & docker compose with (Home Assistant, Homebridge, Scrypted, automated backup RPI OS). Fully created environment for full functional HomeKir Smart House (privat repo). Done ✅<br>
+        Plugins for Homebridge: <a href="https://github.com/NikDevx/homebridge-playstation-game-title"><img alt="Playstation game title" src="https://img.shields.io/github/stars/NikDevx/homebridge-playstation-game-title?style=flat-square&labelColor=343b41&label=Playstation-game-title"/></a>, <a href="https://github.com/NikDevx/homebridge-philips-air"><img alt="Stars" src="https://img.shields.io/github/stars/NikDevx/homebridge-philips-air?style=flat-square&labelColor=343b41&label=Philips-air"/></a>, 
+        <a href="https://github.com/NikDevx/homebridge-web-thermostat"><img alt="Stars" src="https://img.shields.io/github/stars/NikDevx/homebridge-web-thermostat?style=flat-square&labelColor=343b41&label=Web-thermostat"/></a>, <a href="https://github.com/NikDevx/homebridge-temperature-humidity-sensor-file"><img alt="Stars" src="https://img.shields.io/github/stars/NikDevx/homebridge-temperature-humidity-sensor-file?style=flat-square&labelColor=343b41&label=Temperature-humidity-sensor-file"/></a><br>
+____________________________________________________________________________________________________________________________________________________________________
+<br>
+
+> ## My skills
+
+**Programming language:** `Python (Full-stack), TypeScript, PHP (Full-stack), JavaScript (jQuery), nodeJS, AJAX`
+
+**RDBMS:** `SQL, MySQL, PostgreSQL, SQLite`
+
+**Web server:** `nginx, Apache`
+
+**Frameworks:** `Django, Bootstrap`
+
+**Software:** `Docker, Docker Compose, Portainer, pgAdmin, Pycharm, PhpStorm, phpMyAdmin`
+
+**Library:** `JQuery, miio, Firebase Cloud Messaging`
+
+**OS:** Linux: `Ubuntu 18.04, Raspberrypi OS, MacOS, Windows`
+
+**CMS:** `WordPress, Drupal, DataLife Engine, Horoshop`
+
+**Advertising:** `Facebook Ads Managerm Google ADS, SMM, Targeting, SEO`
+
+**Smart Home:** `Apple Homekit, Homekit Development, Raspberry PI, Home Assistant, Homebridge`
+
+**Other:** `API Integration,s Dockerfile, Makefile, shell and batch scripts, Firebase (Push notifications), cron (crontab), CSS, JSON, Django (Celery, Flower, Celerybeat, Redis, RabbitMQ), GitHub, Let's Encrypt, IOT Protocols, (MQTT), Telegram Bot API, Setting Telnet, SSH and Remote Control Connection.`
+____________________________________________________________________________________________________________________________________________________________________
+<br>
+
+> ## My hobbies
+💪 ten years in sports, 🎮 PS5 & PC gaming, 🏠 creating my own smart home, 🌍 traveler, 📺 watch anime and 📖 read manga.
+____________________________________________________________________________________________________________________________________________________________________
+<br>
+
+> ## Additional information
 ![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikDevx&count_private=true&show_icons=true&theme=tokyonight)
 ![Nik's GitHub stat](https://streak-stats.demolab.com?user=NikDevx&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D&card_width=467)
+> ### GitHub trophy
+<img src="https://github-profile-trophy.vercel.app/?username=NikDevx&theme=juicyfresh&no-bg=true" />
 
+> ### Working with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="bash" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="50" alt="bootstrap" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="css3" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="docker" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="firebase" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="git" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="html5" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="javascript" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="linux" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="nginx" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" alt="photoshop" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="50" alt="ssh" />
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="php" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="postgresql" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="raspberrypi" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="50" alt="phpstorm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" alt="pycharm" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" alt="apple" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50" alt="jquery" /> <img src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" width="50" alt="django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" alt="wordpress" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="mysql" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="mysql" />
 <a name="social-networks"></a>
-
 ____________________________________________________________________________________________________________________________________________________________________
+<br><br>
 
-> social networks
+> ## Social networks
 
 <a href="https://t.me/Nik_dev" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" width="50" alt="telegram" /></a> <a href="https://www.instagram.com/nik_devx/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="50" alt="instagram" /></a> <a href="https://www.facebook.com/mykyta.andriievskyi/" target="_blank"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="50" alt="facebook" /></a>
