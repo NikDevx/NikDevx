@@ -29,10 +29,6 @@ ________________________________________________________________________________
 > ## About me
 Since 2024, amid the challenges of hiring in Ukraine, I have taken on additional responsibilities outside of my department, including negotiating with partners from Alibaba, signing contracts for branded product production, and integrating devices into smart home systems.
 
-Due to significant changes in the market and the challenges of handling multiple roles after the departure of half team members, I am currently unable to continue growing in my current position. As my company faces a decline in the number of clients and coworkers, my workload has become overwhelming, and I no longer have the resources to manage all tasks on my own.
-
-As a result, my wife and I have decided to relocate from Ukraine to the EU in the near future. I am now actively seeking remote opportunities where I can fully leverage my skills, contribute to a friendly and collaborative company, and continue my professional growth. I am eager to join a team that values innovation and offers room for personal and career development.
-
 I am passionate about building scalable solutions, maintaining clean code, and delivering comprehensive smart home experiences from concept to execution. I also possess frontend skills, complementing my backend expertise, which allows me to develop more complete and versatile solutions.
 ____________________________________________________________________________________________________________________________________________________________________
 <br>
