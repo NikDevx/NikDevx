@@ -4,6 +4,13 @@
 <a href="#social-networks"><img src="https://img.shields.io/static/v1?label=&message=How%20to%20reach%20me&color=green?style=plastic" /></a> | <a href="#my-experience"><img src="https://img.shields.io/static/v1?label=&message=My%20experience&color=green?style=plastic" /></a> | <a href="#about-me"><img src="https://img.shields.io/static/v1?label=&message=About%20me&color=green?style=plastic" /></a> | <a href="#finished-projects"><img src="https://img.shields.io/static/v1?label=&message=Finished%20projects&color=green?style=plastic" /></a> | <a href="#my-skills"><img src="https://img.shields.io/static/v1?label=&message=My%20skills&color=green?style=plastic" /></a> | <a href="#additional-information"><img src="https://img.shields.io/static/v1?label=&message=Additional%20information&color=green?style=plastic" /></a>
 <br><br>
 
+### 💜 Found my work helpful?
+
+Support future development by subscribing to my YouTube channels:
+
+👉 [Relaxing-V (Meditation)](https://www.youtube.com/@Relaxing-V)  
+👉 [Relaxing-NV (Nature & Sea)](https://www.youtube.com/@Relaxing-NV)
+
 > ## My experience
 
 📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for Homekit and HomeAssistant!<br>
