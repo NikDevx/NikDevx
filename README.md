@@ -6,7 +6,9 @@
 
 ### 💜 Found my work helpful?
 
-Support future development by subscribing to my YouTube channels:
+Support future development by subscribing to my YouTube channels and install my app:
+
+👉 [AppStore](https://apps.apple.com/app/vibris-meditation-energy/id6747090468?pt=2364550&ct=AppStoreButton)
 
 👉 [Relaxing-V (Meditation)](https://www.youtube.com/@Relaxing-V)  
 👉 [Relaxing-NV (Nature & Sea)](https://www.youtube.com/@Relaxing-NV)
