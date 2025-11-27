@@ -19,7 +19,7 @@ Support future development by subscribing to my YouTube channels and install my 
         Python developer with real experience in problem solving and database work. Working experience 5+ years.<br>
         For the last 3 years, I have been running my own company specializing in smart home solutions for the Apple ecosystem. 
 
-🏘 Co-owner in <a href="https://smarty-house.shop">Smarty House LLC</a>
+🏘 Co-owner in Smarty House LLC
 <br>I have been responsible for:
 
 - Integrating third-party devices into HomeKit via APIs
