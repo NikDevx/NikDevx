@@ -78,7 +78,7 @@ ________________________________________________________________________________
 
 **Smart Home:** `Apple Homekit, Homekit Development, Raspberry PI, Home Assistant, Homebridge`
 
-**Other:** `API Integration,s Dockerfile, Makefile, shell and batch scripts, Firebase (Push notifications), cron (crontab), CSS, JSON, Django (Celery, Flower, Celerybeat, Redis, RabbitMQ), GitHub, Let's Encrypt, IOT Protocols, (MQTT), Telegram Bot API, Setting Telnet, SSH and Remote Control Connection.`
+**Other:** `API Integration, Dockerfile, Makefile, shell and batch scripts, Firebase (Push notifications), cron (crontab), CSS, JSON, Django (Celery, Flower, Celerybeat, Redis, RabbitMQ), GitHub, Let's Encrypt, IOT Protocols, (MQTT), Telegram Bot API, Setting Telnet, SSH and Remote Control Connection.`
 ____________________________________________________________________________________________________________________________________________________________________
 <br>
 
