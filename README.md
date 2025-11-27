@@ -74,7 +74,7 @@ ________________________________________________________________________________
 
 **CMS:** `WordPress, Drupal, DataLife Engine, Horoshop`
 
-**Advertising:** `Facebook Ads Managerm Google ADS, SMM, Targeting, SEO`
+**Advertising:** `Facebook Ads Manager, Google ADS, Push, SMM, Targeting, SEO`
 
 **Smart Home:** `Apple Homekit, Homekit Development, Raspberry PI, Home Assistant, Homebridge`
 
