@@ -1,6 +1,7 @@
 <a href="https://stand-with-ukraine.pp.ua/" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
-# Hello there, I'm Mykyta Andriievskyi 👋 🇺🇦
+# Hello there, I'm Mykyta Andriievskyi (Nik_Dev) 👋 🇺🇦
+
 <a href="#social-networks"><img src="https://img.shields.io/static/v1?label=&message=How%20to%20reach%20me&color=green?style=plastic" /></a> | <a href="#my-experience"><img src="https://img.shields.io/static/v1?label=&message=My%20experience&color=green?style=plastic" /></a> | <a href="#about-me"><img src="https://img.shields.io/static/v1?label=&message=About%20me&color=green?style=plastic" /></a> | <a href="#finished-projects"><img src="https://img.shields.io/static/v1?label=&message=Finished%20projects&color=green?style=plastic" /></a> | <a href="#my-skills"><img src="https://img.shields.io/static/v1?label=&message=My%20skills&color=green?style=plastic" /></a> | <a href="#additional-information"><img src="https://img.shields.io/static/v1?label=&message=Additional%20information&color=green?style=plastic" /></a>
 <br><br>
 
@@ -14,6 +15,8 @@ Support future development by subscribing to my YouTube channels and install my 
 👉 [Relaxing-NV (Nature & Sea)](https://www.youtube.com/@Relaxing-NV)
 
 > ## My experience
+
+### Currently working on this: <a targer="_blank" href="https://apps.apple.com/app/id6747090468">Vibris</a>
 
 📈 I’m developing a Web-Applications for CPA, plug-ins, apps and automatisations for Homekit and HomeAssistant!<br>
         Python developer with real experience in problem solving and database work. Working experience 5+ years.<br>
