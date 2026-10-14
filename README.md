@@ -14,7 +14,6 @@ Support future development by subscribing to my YouTube channels and install my 
 👉 [Vibris (AppStore)](https://apps.apple.com/app/vibris-meditation-energy/id6747090468?pt=2364550&ct=GitHub)
 
 👉 [Vibris (YouTube)](https://www.youtube.com/@Relaxing-V)  
-👉 [Relaxing-NV (YouTube)](https://www.youtube.com/@Relaxing-NV)
 
 
 
